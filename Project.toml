@@ -1,0 +1,10 @@
+name = "AutoTypedStructs"
+uuid = "9fcca694-46e8-4bc4-8ba7-008f75f9aa8e"
+version = "0.1.0"
+authors = ["John Omotani <john.omotani@ukaea.uk>"]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
