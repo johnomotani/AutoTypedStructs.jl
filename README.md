@@ -1,3 +1,6 @@
+This package is not developed. If you found this, you probably want
+[ConcreteStructs.jl](https://github.com/jonniedie/ConcreteStructs.jl)!
+
 `AutoTypedStructs` provides a macro `@autotyped` that creates a parametric
 struct where any fields that are not explicitly given a type (either concrete
 or an explicitly specified type parameter) are assigned an unrestricted type
